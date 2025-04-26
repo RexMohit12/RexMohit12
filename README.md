@@ -66,7 +66,7 @@
 <td width="50%" valign="top">
 
 ### 🧠 [AI Malware Detection ](https://github.com/Aditya-Codes-247/Neural_Nomads_MINED_Repository)  
-> ML/DL system with quantum-enhanced models  
+> ML/DL and exploring quantum AI models  
 - Hybrid approach using MLP & Quantum XGBoost  
 - 92% detection accuracy on 22K+ samples  
 - PCA-based feature reduction pipeline  
