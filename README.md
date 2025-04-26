@@ -62,21 +62,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/RexMohit12">
-  <img src="https://github-readme-stats.vercel.app/api?username=RexMohit12&theme=react&show_icons=true&hide_border=true" width="48%" alt="Mohit's GitHub Stats"/>
-</a>
-<a href="https://github.com/RexMohit12">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RexMohit12&theme=react&hide_border=true" width="48%" alt="Mohit's GitHub Streak"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### "I make the machines learn, and the code meaningful."
