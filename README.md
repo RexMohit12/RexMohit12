@@ -50,12 +50,18 @@
 ## 🏆 Featured Projects
 
 <div align="center">
+  
+### 🗣️ [QueryGen - NLP SQL Generator](https://github.com/Aditya-Codes-247/querygen)  
+> BERT-based SQL query synthesis  
+- Multimodal input (Speech + OCR) support  
+- Fine-tuned on WikiSQL & custom datasets  
+- FastAPI backend with 98% query accuracy  
 
-| [![QueryGen Demo](https://github.com/Aditya-Codes-247/querygen/assets/47697085/c9bbfdf9-690e-4c80-a6ee-7ee2692b6e41)](https://github.com/Aditya-Codes-247/querygen) | [![Neural Nomads Demo](https://github.com/Aditya-Codes-247/Neural_Nomads_MINED_Repository/assets/47697085/1b45f0cd-f7ca-4088-87ee-169d7db23862)](https://github.com/Aditya-Codes-247/Neural_Nomads_MINED_Repository) |
-|:--:|:--:|
-| **🗣️ QueryGen - NLP SQL Generator** | **🧠 Neural Nomads - ML Repository** |
-| `BERT-based SQL synthesis` | `Quantum-enhanced Malware Detection` |
-| [⭐ GitHub Stars](https://github.com/Aditya-Codes-247/querygen/stargazers) | [⭐ GitHub Stars](https://github.com/Aditya-Codes-247/Neural_Nomads_MINED_Repository/stargazers) |
+### 🧠 [Neural Nomads - MINED Repository](https://github.com/Aditya-Codes-247/Neural_Nomads_MINED_Repository)  
+> ML/DL system with quantum-enhanced models  
+- Hybrid approach using MLP & Quantum XGBoost  
+- 92% detection accuracy on 22K+ samples  
+- PCA-based feature reduction pipeline
 
 </div>
 
