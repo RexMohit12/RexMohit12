@@ -49,7 +49,7 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
+<div>
   
 ### 🗣️ [QueryGen - NLP SQL Generator](https://github.com/Aditya-Codes-247/querygen)  
 > BERT-based SQL query synthesis  
