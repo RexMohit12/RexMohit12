@@ -50,19 +50,30 @@
 
 ## 🏆 Featured Projects
 
-<div>
-  
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
 ### 🗣️ [QueryGen - NLP SQL Generator](https://github.com/Aditya-Codes-247/querygen)  
 > BERT-based SQL query synthesis  
 - Multimodal input (Speech + OCR) support  
 - Fine-tuned on WikiSQL & custom datasets  
 - FastAPI backend with 98% query accuracy  
 
+</td>
+<td align="center" width="50%">
+
 ### 🧠 [Neural Nomads - MINED Repository](https://github.com/Aditya-Codes-247/Neural_Nomads_MINED_Repository)  
 > ML/DL system with quantum-enhanced models  
 - Hybrid approach using MLP & Quantum XGBoost  
 - 92% detection accuracy on 22K+ samples  
-- PCA-based feature reduction pipeline
+- PCA-based feature reduction pipeline  
+
+</td>
+</tr>
+</table>
 
 </div>
 
