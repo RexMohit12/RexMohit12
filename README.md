@@ -54,7 +54,7 @@
 
 <table>
 <tr align="top">
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🗣️ [QueryGen: NLP SQL Generator](https://github.com/Aditya-Codes-247/querygen)  
 > BERT-based SQL query synthesis  
@@ -63,7 +63,7 @@
 - FastAPI backend with 98% query accuracy  
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 [AI Malware Detection ](https://github.com/Aditya-Codes-247/Neural_Nomads_MINED_Repository)  
 > ML/DL system with quantum-enhanced models  
