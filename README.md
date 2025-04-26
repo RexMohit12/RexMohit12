@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 ### 🤖 Artificial Intelligence
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,7 +67,7 @@
 
 ### 🧠 [AI Malware Detection ](https://github.com/Aditya-Codes-247/Neural_Nomads_MINED_Repository)  
 > ML/DL and exploring quantum AI models  
-- Hybrid approach using MLP & Quantum XGBoost  
+- Hybrid approach using ConvLSTM & QXGBoost  
 - 92% detection accuracy on 22K+ samples  
 - PCA-based feature reduction pipeline  
 
