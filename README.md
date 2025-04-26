@@ -67,7 +67,7 @@
 
 ### 🧠 [AI Malware Detection ](https://github.com/Aditya-Codes-247/Neural_Nomads_MINED_Repository)  
 > ML/DL and exploring quantum AI models  
-- Hybrid approach using ConvLSTM & QXGBoost  
+- Hybrid approach using MLP & ConvLSTM  
 - 92% detection accuracy on 22K+ samples  
 - PCA-based feature reduction pipeline  
 
