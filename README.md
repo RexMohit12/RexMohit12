@@ -5,6 +5,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-ginglani)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mohitgotnochill)
+
+</div>
+
+
+<div align="center'>
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=RexMohit12&style=flat-square&color=blue)
 
 </div>
