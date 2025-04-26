@@ -53,7 +53,7 @@
 <div align="center">
 
 <table>
-<tr>
+<tr align="top">
 <td width="50%">
 
 ### 🗣️ [QueryGen: NLP SQL Generator](https://github.com/Aditya-Codes-247/querygen)  
