@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Mohit Ginglani
-### 🚀 _AI Developer | Data Analyst | Backend Engineer_
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-ginglani)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mohitgotnochill)
@@ -9,15 +9,15 @@
 
 </div>
 
----
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&height=50&lines=I+build+AI+that+thinks+.;I+code+data+into+decisions.;Backend+Architect+%7C+Data+Artist+%7C+ML+Crafter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&height=50&lines=I+build+AI+that+thinks+correctly...;I+code+data+into+decisions...;AI+Development+%7C+Data+Analysis+%7C+Backend+Development." alt="Typing SVG" />
 
 </div>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
