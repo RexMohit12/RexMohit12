@@ -81,7 +81,7 @@
 
 ### "I make the machines learn, and the code meaningful."
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%A7%A0+Code+With+Intent+%7C+Build+With+Purpose" alt="Bottom Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Code+With+Intent+%7C+Build+With+Purpose" alt="Bottom Typing SVG" />
 
 </div>
 
