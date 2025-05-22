@@ -1,5 +1,11 @@
 <div align="center">
 
+![Footer Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm Mohit Ginglani
 
 
@@ -46,8 +52,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
-
----
 
 <div align="center">
 
