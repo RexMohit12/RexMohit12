@@ -20,68 +20,30 @@
 ---
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech I am Good at...
 
 <div>
 
-### 🤖 Artificial Intelligence
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF1493?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+### 🌐 Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ Backend & DevOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-
-### 📊 Data & Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<table>
-<tr align="top">
-<td width="50%" valign="top">
-
-### 🗣️ [QueryGen: NLP SQL Generator](https://github.com/Aditya-Codes-247/querygen)  
-> BERT-based SQL query synthesis  
-- Multimodal input (Speech + OCR) support  
-- Fine-tuned on WikiSQL & custom datasets  
-- FastAPI backend with 98% query accuracy  
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [AI Malware Detection ](https://github.com/Aditya-Codes-247/Neural_Nomads_MINED_Repository)  
-> ML/DL and exploring quantum AI models  
-- Hybrid approach using MLP & ConvLSTM  
-- 92% detection accuracy on 22K+ samples  
-- PCA-based feature reduction pipeline  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### "I make the machines learn, and the code meaningful."
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Code+With+Intent+%7C+Build+With+Purpose" alt="Bottom Typing SVG" />
+### 🤖 Artificial Intelligence
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
